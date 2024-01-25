@@ -1,4 +1,4 @@
-# zkGraph uniswrapperice template
+# zkGraph Proof of Vesting
 
 ## Usage CLI
 
